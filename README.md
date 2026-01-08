@@ -1,4 +1,4 @@
-# Excel Projects
+# Excel Practice
 
 This repository contains beginner Excel practice projects.
 
